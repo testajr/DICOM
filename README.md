@@ -1,2 +1,2 @@
-# VIEW_DICOM
+# DICOM
 Projeto View DICOM
